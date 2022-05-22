@@ -110,6 +110,7 @@ namespace MIUTracker
             string fullPath = $"{replayDir}{levelName}.mp";
             string fullDes = $@".\Replays\{levelName}\{levelName}.mp";
             try {
+                if (!Directory.Exists($@".\Replays\{levelName}\")) { Directory.CreateDirectory($@".\Replays\{levelName}\"); }
                 if (File.Exists(fullDes)) { File.Delete(fullDes); }
                 File.Copy(fullPath, fullDes);
                 File.Move(fullDes, $@".\Replays\{levelName}\{levelName}_{Log.lastAccess.Year}-{Log.lastAccess.Month}-{Log.lastAccess.Day};{Log.lastAccess.Hour}-{Log.lastAccess.Minute}-{Log.lastAccess.Second}_{Log.time}.mp");
