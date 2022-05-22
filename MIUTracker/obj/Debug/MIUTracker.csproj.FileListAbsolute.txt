@@ -1,0 +1,15 @@
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\bin\Debug\MIUTracker.exe.config
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\bin\Debug\MIUTracker.exe
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\bin\Debug\MIUTracker.pdb
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MIUTracker.csprojAssemblyReference.cache
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\App.g.cs
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MIUTracker_MarkupCompile.cache
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MIUTracker_MarkupCompile.lref
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MIUTracker.g.resources
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MIUTracker.Properties.Resources.resources
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MIUTracker.csproj.GenerateResource.cache
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MIUTracker.csproj.CoreCompileInputs.cache
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MIUTracker.exe
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MIUTracker.pdb
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MainWindow.g.cs
+C:\Users\Ville\source\repos\MIUTracker\MIUTracker\obj\Debug\MainWindow.baml

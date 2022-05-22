@@ -1,0 +1,222 @@
+Mono path[0] = 'C:/Users/Ville/Desktop/MIU Backup Folder/Versions/Marble It Up! Classic Backup/Marble It Up_Data/Managed'
+Mono config path = 'C:/Users/Ville/Desktop/MIU Backup Folder/Versions/Marble It Up! Classic Backup/MonoBleedingEdge/etc'
+Loading player data from C:/Users/Ville/Desktop/MIU Backup Folder/Versions/Marble It Up! Classic Backup/Marble It Up_Data/data.unity3d
+Initialize engine version: 2019.1.0f2 (292b93d75a2c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1e89)
+    Vendor:   
+    VRAM:     5968 MB
+    Driver:   30.0.15.1179
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.080 seconds
+Shader 'Particles/Additive Clipsafe': fallback shader 'Particles/Additive' not found
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.413100 ms
+[splash] OnEnable T+0,1750704
+[splash] LevelProgress coroutine started.
+[splash] Loading bundles
+[splash] Bundle loaded, textures, 1012
+[splash] Bundle loaded, materials, 14
+[splash] Bundle loaded, animations, 0
+[splash] Bundle loaded, models, 1
+[splash] Bundle loaded, shaders, 0
+[splash] Bundle loaded, ui, 9
+[splash] Bundle loaded, configuration, 15
+[splash] Bundle loaded, music, 4
+[splash] Bundle loaded, sfx, 5
+[splash] Bundle loaded, skies, 5
+[splash] Bundle loaded, runtime, 7
+[splash] Bundle loaded, mainmenu, 5
+[splash] Start scene MainGame
+[splash] Loading scene and assets
+[splash] Loading scene and assets: 0%
+The referenced script on this Behaviour (Game Object 'MapLoader') is missing!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/ManagedMonoBehaviourRef.cpp Line: 333)
+
+The referenced script on this Behaviour (Game Object 'Cylinder (1)') is missing!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/ManagedMonoBehaviourRef.cpp Line: 333)
+
+The referenced script on this Behaviour (Game Object 'Cylinder (1)') is missing!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/ManagedMonoBehaviourRef.cpp Line: 333)
+
+[splash] Scene activation unlock
+Unloading 5 Unused Serialized files (Serialized files now loaded: 13)
+Shader 'Particles/Additive Clipsafe': fallback shader 'Particles/Additive' not found
+Shader 'Particles/Multiply Clipsafe': fallback shader 'Particles/Additive' not found
+[splash] LevelProgress coroutine completed.
+No mesh data available for mesh Polygonal_Geometry on particle system Particle System (4). Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+ 
+(Filename: C:\buildslave\unity\build\Modules\ParticleSystem\ParticleSystemRenderer.cpp Line: 228)
+
+No mesh data available for mesh Polygonal_Geometry on particle system Particle System (4). Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+ 
+(Filename: C:\buildslave\unity\build\Modules\ParticleSystem\ParticleSystemRenderer.cpp Line: 228)
+
+UnloadTime: 2.288600 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp Line: 559)
+
+[splash] Finish scene MainGame
+Initializing MIU (version='1.3') T+3,41622
+Fallback handler could not load library C:/Users/Ville/Desktop/MIU Backup Folder/Versions/Marble It Up! Classic Backup/Marble It Up_Data/Mono/data-000001C3740DE430.dll
+Fallback handler could not load library C:/Users/Ville/Desktop/MIU Backup Folder/Versions/Marble It Up! Classic Backup/Marble It Up_Data/Mono/data-000001C322F10AF0.dll
+Fallback handler could not load library C:/Users/Ville/Desktop/MIU Backup Folder/Versions/Marble It Up! Classic Backup/Marble It Up_Data/Mono/data-000001C345179010.dll
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+Platform not supported for local use: Steam
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Attaching Steam Account
+NullReferenceException: Object reference not set to an instance of an object
+  at MapComponents.AEFGHJACBNG () [0x00025] in <b74ae13c3dcc4625b951839eb529233c>:0 
+  at MapLoad.Start () [0x00068] in <b74ae13c3dcc4625b951839eb529233c>:0 
+ 
+(Filename: <b74ae13c3dcc4625b951839eb529233c> Line: 0)
+
+[mapload] Finish loading 'diamond_in_the_sky'...
+
+Unloading 943 unused Assets to reduce memory usage. Loaded Objects now: 17638.
+Total: 28.733400 ms (FindLiveObjects: 0.758900 ms CreateObjectMapping: 0.164400 ms MarkObjects: 27.334200 ms  DeleteObjects: 0.475500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 13)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 17537.
+Total: 29.965800 ms (FindLiveObjects: 0.662600 ms CreateObjectMapping: 0.145600 ms MarkObjects: 29.128400 ms  DeleteObjects: 0.028700 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour.StopAllCoroutines(UnityEngine.MonoBehaviour)
+  at CustomSkin.NABEJNNDODP (CustomSkin+DKEHHJGJADJ LCFDKNFPMBA) [0x00000] in <b74ae13c3dcc4625b951839eb529233c>:0 
+  at CustomSkin+ANMCNJFMNPO.BILPFNLIKOP () [0x00000] in <b74ae13c3dcc4625b951839eb529233c>:0 
+  at UnityMainThreadDispatcher+<ActionWrapper>d__4.MoveNext () [0x00017] in <f86e18d0fb064c62aa8a845e5c403ce3>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00027] in <ca1d1fd848884ed5a84a515243f09e15>:0 
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<>c__DisplayClass2_0:<Enqueue>b__0()
+UnityMainThreadDispatcher:Update()
+ 
+(Filename: <b74ae13c3dcc4625b951839eb529233c> Line: 0)
+
+Discord: ready
+[Network] Using network id STEAM_76561198079954339
+[rewired] Latest active controller type is 
+[Network] User update successful
+-- Network User Connected --
+Fetching Challenges from Server
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at Parse.ParseConfig.Get[T] (System.String key) [0x00000] in <f86e18d0fb064c62aa8a845e5c403ce3>:0 
+  at PlatformSetup.HCNNNAOKIKH () [0x0005a] in <b74ae13c3dcc4625b951839eb529233c>:0 
+  at PlatformSetup+PIIKMGHNDNB.MoveNext () [0x00524] in <b74ae13c3dcc4625b951839eb529233c>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00027] in <ca1d1fd848884ed5a84a515243f09e15>:0 
+ 
+(Filename: <1f0c1ef1ad524c38bbc5536809c46b48> Line: 0)
+
+Challenges fetched from Server
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at ConfigValues.CFEKIDAMPEB () [0x00057] in <b74ae13c3dcc4625b951839eb529233c>:0 
+  at ConfigValues+KONOIILIKBA.AKKCENLNPEA () [0x00000] in <b74ae13c3dcc4625b951839eb529233c>:0 
+  at UnityMainThreadDispatcher+<ActionWrapper>d__4.MoveNext () [0x00017] in <f86e18d0fb064c62aa8a845e5c403ce3>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00027] in <ca1d1fd848884ed5a84a515243f09e15>:0 
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<>c__DisplayClass2_0:<Enqueue>b__0()
+UnityMainThreadDispatcher:Update()
+ 
+(Filename: <b74ae13c3dcc4625b951839eb529233c> Line: 0)
+
+[mapload] Finish loading 'learning_to_jump'...
+[mapload] Finish loading 'precious_gems'...
+[mapload] Finish loading 'up_the_wall'...
+[mapload] Finish loading 'super_jump'...
+[mapload] Finish loading 'full_speed_ahead'...
+[mapload] Finish loading 'stay_frosty'...
+[mapload] Finish loading 'onward_and_upward'...
+[mapload] Finish loading 'learning_to_roll'...
+[mapload] Finish loading 'sugar_rush'...
+[mapload] Finish loading 'elevator_action'...
+[mapload] Finish loading 'speedball'...
+[mapload] Finish loading 'icy_ascent'...
+[mapload] Finish loading 'river_vantage'...
+[mapload] Finish loading 'off_kilter'...
+[mapload] Finish loading 'four_stairs'...
+[mapload] Finish loading 'totally_tubular'...
+[mapload] Finish loading 'time_capsule'...
+[mapload] Finish loading 'cog_valley'...
+[mapload] Finish loading 'stratosphere'...
+[mapload] Finish loading 'tangle'...
+[mapload] Finish loading 'olympus'...
+[mapload] Finish loading 'confluence'...
+[mapload] Finish loading 'the_pit_of_despair'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1583498728/arches_revisited.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1757516807/backroom_bash.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1809306822/bridge_construction.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1774305805/burst!.level'...
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1800627073/chill_zone_b^).level'...
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1930341412/chill_zone_but_its_tall.level'...
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1800971629/chill_zone_lite.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1571694172/christmas_tree_2_the_2nd_coming.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1672416718/dare-devil.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1571694172/christmas_tree_2_the_2nd_coming.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1672416718/dare-devil.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1682854775/dark_room_test-course.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1658291414/dark_world_and_bright_gems.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1631970362/datastream_dodging.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1611502555/dive_revisited.level'...
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1702687455/dynamicity.level'...
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1718359168/dynamicity_v10.level'...
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1720737253/dynamicity_v11.level'...
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\1723178192/dynamicity_v12.level'...
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Level Geometry Material missing 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+[mapload] Finish loading 'c:\program_files_(x86)\steam\steamapps\workshop\content\864060\2499791195/beyond_eternal_and_neglected_stars.level'...
