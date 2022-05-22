@@ -1,5 +1,5 @@
 # MIUTracker
-A Software That Saves Marble It Up! Local Socres And Old Replays!  
+A Software That Saves Marble It Up! Local Scores And Old Replays!  
 
 MIUTracker will Auto-Launch MIU (Change Your MIU Game Path in "miuPath.txt")  
 
